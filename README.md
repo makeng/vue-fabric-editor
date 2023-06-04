@@ -152,20 +152,27 @@ yarn serve
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/makeng">
+            <img src="https://avatars.githubusercontent.com/u/23654388?v=4" width="80;" alt="makeng"/>
+            <br />
+            <sub><b>makeng</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/z09176141">
+            <img src="https://avatars.githubusercontent.com/u/49260613?v=4" width="80;" alt="z09176141"/>
+            <br />
+            <sub><b>z09176141</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/hudenghui">
             <img src="https://avatars.githubusercontent.com/u/17875293?v=4" width="80;" alt="hudenghui"/>
             <br />
             <sub><b>hudenghui</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/makeng">
-            <img src="https://avatars.githubusercontent.com/u/23654388?v=4" width="80;" alt="makeng"/>
-            <br />
-            <sub><b>makeng</b></sub>
-        </a>
-    </td></tr>
-<tr>
     <td align="center">
         <a href="https://github.com/briver0825">
             <img src="https://avatars.githubusercontent.com/u/87807886?v=4" width="80;" alt="briver0825"/>
@@ -174,10 +181,10 @@ yarn serve
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/z09176141">
-            <img src="https://avatars.githubusercontent.com/u/49260613?v=4" width="80;" alt="z09176141"/>
+        <a href="https://github.com/a847244052">
+            <img src="https://avatars.githubusercontent.com/u/28621500?v=4" width="80;" alt="a847244052"/>
             <br />
-            <sub><b>z09176141</b></sub>
+            <sub><b>a847244052</b></sub>
         </a>
     </td>
     <td align="center">
@@ -195,20 +202,20 @@ yarn serve
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/a847244052">
-            <img src="https://avatars.githubusercontent.com/u/28621500?v=4" width="80;" alt="a847244052"/>
+        <a href="https://github.com/Bamzc">
+            <img src="https://avatars.githubusercontent.com/u/10151046?v=4" width="80;" alt="Bamzc"/>
             <br />
-            <sub><b>a847244052</b></sub>
+            <sub><b>Bamzc</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/macheteHot">
             <img src="https://avatars.githubusercontent.com/u/26652329?v=4" width="80;" alt="macheteHot"/>
             <br />
             <sub><b>macheteHot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/slarkerino">
             <img src="https://avatars.githubusercontent.com/u/7014849?v=4" width="80;" alt="slarkerino"/>
@@ -243,7 +250,8 @@ yarn serve
             <br />
             <sub><b>luke358</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yehan68">
             <img src="https://avatars.githubusercontent.com/u/40497166?v=4" width="80;" alt="yehan68"/>
